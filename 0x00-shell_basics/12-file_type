@@ -1,1 +1,2 @@
-%F
+#!bin/bash
+pwd /tmp/iamafile
